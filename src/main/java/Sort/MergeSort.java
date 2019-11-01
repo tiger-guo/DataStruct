@@ -7,6 +7,7 @@ package Sort;
  * @date: 2019/11/1
  */
 public class MergeSort {
+
     public void sort(int[] nums) {
         merge_sort_c(nums, 0, nums.length - 1);
     }
