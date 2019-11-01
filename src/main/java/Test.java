@@ -1,3 +1,5 @@
+import Sort.MergeSort;
+import Sort.QuickSort;
 import Stack.CircularQueue;
 
 /*
@@ -10,15 +12,11 @@ public class Test {
 
     public static void main(String[] args) {
 
-        CircularQueue stack = new CircularQueue(3);
-        stack.push(1);
-        stack.push(2);
-        stack.push(3);
-        stack.push(4);
-        System.out.println(stack.poll());
-        System.out.println(stack.poll());
-        System.out.println(stack.poll());
-        System.out.println(stack.poll());
-
+        int[] nums = {6,4,1,7,8};
+        QuickSort mergeSort = new QuickSort();
+        mergeSort.sort(nums);
+        for (int num : nums) {
+            System.out.println(num);
+        }
     }
 }
