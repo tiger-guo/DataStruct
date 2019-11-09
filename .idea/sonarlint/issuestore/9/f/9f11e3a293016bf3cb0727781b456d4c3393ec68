@@ -1,0 +1,7 @@
+
+~"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(æñÆÒ
+"squid:ClassVariableVisibilityCheck"TMake children a static final constant or non-public and provide accessors if needed.(ğØÏZ
+‹"squid:ClassVariableVisibilityCheck"XMake isEndingChar a static final constant or non-public and provide accessors if needed.(úÙ£¦ıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
+Xsquid:S1126+"AReplace this if-then-else statement by a single return statement.(¤£üÄ
+?squid:S1125+"(Remove the literal "true" boolean value.(¤£üÄ

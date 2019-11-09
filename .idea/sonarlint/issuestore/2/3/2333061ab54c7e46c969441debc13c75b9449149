@@ -1,0 +1,3 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á„œé
+|squid:S30122"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ËÂ±ùÿÿÿÿ8Ïæ±â-
