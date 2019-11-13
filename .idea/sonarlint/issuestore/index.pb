@@ -49,8 +49,6 @@ N
 src/main/java/Graph/Graph.java,6\5\65ee3aeb66611e1bcc525a85fc0fb5b7ba035c11
 L
 src/main/java/Tree/Trie.java,9\f\9f11e3a293016bf3cb0727781b456d4c3393ec68
-X
-(src/main/java/String/StringMatch_BM.java,8\3\83496034137f1538dd4e0c611f0217ff078ef20b
 [
 +src/main/java/Division/GetReverseOrder.java,f\b\fb0eb1f45249dc97882a12257a13d4f116fc8824
 [
@@ -61,3 +59,15 @@ X
 (src/main/java/Backtracking/BackPack.java,8\0\80f1104be169c3e94ba93a77fa45ea48c2688e68
 Z
 *src/main/java/DynamicPlanning/MinCoin.java,4\2\423cdda764fc9deac8813f4ed90a1eb3ddebe47a
+G
+src/test/java/Test.java,e\1\e1c1ce625dc608dd00fa9f0917d7630dbd9d8b0c
+\
+,src/main/java/StringDemo/StringMatch_BM.java,d\b\dbd2c0eca0b44e28585ed1741b7ffc63df3551ce
+Z
+*src/main/java/StringDemo/SpaceReplace.java,1\1\1123ff34a97a4d41795c5a0343d57eb66cfa9439
+a
+1src/main/java/NumbersProblem/NumIntegerPower.java,3\0\304a07a7b7a5be07beba145cb0e71b18aea5a8ef
+V
+&src/main/java/Stack/StackSequence.java,d\7\d7fba5c108ab07eaaf6a9b4c024a5a8db836cdb1
+L
+src/main/java/Heap/Heap.java,d\3\d36cfaff1dd80b70b9613fdb5b4e14f1c34fe86c

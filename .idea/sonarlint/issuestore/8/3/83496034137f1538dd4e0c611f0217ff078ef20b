@@ -1,5 +1,0 @@
-
-gsquid:UselessImportCheck">Remove this unused import 'java.util.concurrent.ForkJoinPool'.(†¿ŞÖûÿÿÿÿ
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğâÅÛşÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ß
-?squid:S1125R"(Remove the literal "true" boolean value.(İ¼ªƒ

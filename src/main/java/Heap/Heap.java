@@ -47,7 +47,8 @@ public class Heap {
         heapify(a, count, 1);
     }
 
-    private void heapify(int[] a, int count, int i) {
+
+    private void heapify(int[] a, int n, int i) { // 自上往下堆化
         while (true) {
             int maxPos = i;
             if (i * 2 <= n && a[i] < a[i * 2])
@@ -61,16 +62,16 @@ public class Heap {
         }
     }
 
-    private void buidHeap(int[] a, int n){
-        for (int i = n/2; i >= 1 ; --i) {
+    private void buidHeap(int[] a, int n) {
+        for (int i = n / 2; i >= 1; --i) {
             heapify(a, n, i);
         }
     }
 
-    public void sort(int[] a, int n){
+    public void sort(int[] a, int n) {
         buidHeap(a, n);
         int k = n;
-        while (k>0){
+        while (k > 0) {
             swap(a, k, 1);
             k--;
             heapify(a, k, 1);

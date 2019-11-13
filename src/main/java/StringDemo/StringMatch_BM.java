@@ -1,6 +1,4 @@
-package String;
-
-import java.util.concurrent.ForkJoinPool;
+package StringDemo;
 
 /*
  * @author: LiuGuohu
